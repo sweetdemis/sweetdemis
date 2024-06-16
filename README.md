@@ -1,8 +1,7 @@
 <h2>Oi! Eu sou a Sarah!</h2>
-🌙 18 anos <br>
-🌱 IFRS Campus Osório <br>
-⌛️ Quase técnica em Informática <br>
-🪩 Amo a Taylor Swift <br>
+🌙 19 anos <br>
+⌛️ Técnica em informática pelo IFRS<br>
+🌱 Sempre buscando a aprender mais
 <br>
 
 <div align="center">
