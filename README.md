@@ -1,7 +1,7 @@
 <h2>Oi! Eu sou a Sarah!</h2>
 🌙 19 anos <br>
 ⌛️  Técnica em informática pelo IFRS<br>
-🌱 Sempre buscando a aprender mais
+🌱 Sempre em busca de aprender mais
 <br><br>
 
 <div>
