@@ -1,6 +1,6 @@
 <h2>Oi! Eu sou a Sarah!</h2>
 🌙 20 anos <br>
-⌛️ Formada em Técnico em informática pelo IFR S<br>
+⌛️ Formada em Técnico em informática pelo IFRS<br>
 💻 Estudante de Ciência da Computação e Tecnologia em Banco de dados <br>
 🌱 Sempre em busca de aprender mais
 <br><br>
